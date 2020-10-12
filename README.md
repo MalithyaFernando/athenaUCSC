@@ -1,4 +1,4 @@
-# athenaUCSC
+# athena
 Web based eLearning management system with gamification features
 
 > Codefest 
@@ -7,5 +7,9 @@ Web based eLearning management system with gamification features
 # Main Focus
 - Adding Courses with proper content
 - Add question section
-- Shuffle the questions
-- Awarding Systems for the acheivements
+- Shuffle the challenge questions
+- Awarding System for the acheivements
+
+# Functionality
+
+
